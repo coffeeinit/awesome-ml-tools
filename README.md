@@ -1,4 +1,4 @@
-# Awesome AI/ML Software Tools for Developers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome AI/ML Software Tools for Developers [![Awesome](https://awesome.re/badge.svg)]
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg?style=flat-square)](LICENSE)
